@@ -54,7 +54,7 @@ fedora
 
 manjaro Linux
 
-(ADD DEPENDANCES HERE)
+base-devel perl flex bison readline ncurses libffi gmp zlib openssl valgrind doxygen graphviz
 
 ----
 
