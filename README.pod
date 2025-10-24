@@ -50,7 +50,7 @@ build-essential perl flex bison libreadline-dev libncurses-dev libffi-dev libgmp
 
 fedora
 
-(ADD DEPENDANCES HERE)
+gcc make perl flex bsion readline-devel ncurses-devel libffi-devel gmp-devel zlib-devel openssl-devel valgrind doxygen graphviz
 
 manjaro Linux
 
